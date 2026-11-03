@@ -1,0 +1,5 @@
+{
+  "name": "qureo-js-assistant",
+  "main": "worker.js",
+  "compatibility_date": "2026-11-03"
+}
